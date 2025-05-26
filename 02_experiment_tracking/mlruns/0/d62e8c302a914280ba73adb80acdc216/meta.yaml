@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/courses/mlops_dtalks/mlops_zoomcamp_2025/02_experiment_tracking/mlruns/0/d62e8c302a914280ba73adb80acdc216/artifacts
+end_time: 1748264581448
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d62e8c302a914280ba73adb80acdc216
+run_name: useful-goat-471
+run_uuid: d62e8c302a914280ba73adb80acdc216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748264553778
+status: 3
+tags: []
+user_id: admin2
