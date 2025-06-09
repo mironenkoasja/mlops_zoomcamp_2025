@@ -1,0 +1,6 @@
+pyarrow
+pandas
+sqlalchemy
+psycopg2-binary
+mlflow
+scikit-learn
