@@ -1,0 +1,9 @@
+{
+    "year": 2023,
+    "month": 5,
+    "n_predictions": 3399555,
+    "mean_prediction": 14.24,
+    "mean_actual": 15.92,
+    "mae": 6.56,
+    "std_prediction": 6.26
+}
